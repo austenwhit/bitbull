@@ -283,11 +283,9 @@ var transaction = bitbull.vote.createVote("secret", ["+5819957819195001929918192
 ***
 
 ## Authors
-- FX Thoorens <fx@bitbull.io>
-- Guillaume Verbal <doweig@bitbull.io>
-- Boris Povod <boris@crypti.me>
-- Oliver Beddows <oliver@lisk.io>
-
+- Alexander <alexander@bitbull.io>
+- Roger <roger@bitbull.io>
+- Louis <louis@crypti.me>
 ## License
 
 The MIT License (MIT)
