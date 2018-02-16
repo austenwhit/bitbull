@@ -1,4 +1,4 @@
-![bitbull JavaScript](https://i.imgur.com/ywwE2uF.png)
+![bitbull JavaScript](https://bitbullcoin.co/content/ywwE2uF.png)
 
 
 [![Build Status](https://travis-ci.org/bitbullEcosystem/bitbull-js.svg?branch=master)](https://travis-ci.org/bitbullEcosystem/bitbull-js)
